@@ -15,6 +15,10 @@ Building modern applications for Web, Desktop & Mobile
 
 ### About Me
 
-I'm a software developer passionate about turning complex ideas into practical, reliable and scalable solutions
+I'm a software developer passionate about turning complex ideas into practical, reliable and scalable solutions.
 
-I work across the full development lifecycle — from architecture and interface design to backend development, databases and deployment
+Beyond code lies architecture. Beyond architecture lies complexity.
+
+From distributed systems and microservices to concurrency, fault tolerance and scalability — I engineer solutions where every decision matters.
+
+**Complexity is inevitable. Fragility is a choice.**
