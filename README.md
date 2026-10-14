@@ -1,16 +1,20 @@
-## Hi there 👋
 
-<!--
-**ram-ismael/ram-ismael** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
 
-Here are some ideas to get you started:
+# Hey, I'm Ramadan Ismael 👋
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Full-Stack Software Developer
+
+Building modern applications for Web, Desktop & Mobile
+
+**Design ⇄ Develop ⇄ Deploy**
+
+</div>
+
+---
+
+### About Me
+
+I'm a software developer passionate about turning complex ideas into practical, reliable and scalable solutions
+
+I work across the full development lifecycle — from architecture and interface design to backend development, databases and deployment
