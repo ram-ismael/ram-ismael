@@ -31,5 +31,5 @@ Explore some of the systems and products I've built:
 
 → [English Training Centre](https://etc.edu.mz/pt/)
 → [RAM E-Commerce](https://ram-ismael.github.io/e-commerce-demo/)  
-→ [StreamHub](#)  
+→ [RAM StreamHub](https://ram-ismael.github.io/stream-hub-demo/)  
 → [mStock Terminal](#)
