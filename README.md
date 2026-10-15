@@ -22,3 +22,14 @@ Beyond code lies architecture. Beyond architecture lies complexity.
 From distributed systems and microservices to concurrency, fault tolerance and scalability — I engineer solutions where every decision matters.
 
 **Complexity is inevitable. Fragility is a choice.**
+
+---
+
+### Selected Work
+
+Explore some of the systems and products I've built:
+
+→ [English Training Centre](https://etc.edu.mz/pt/)
+→ [RAM E-Commerce](#)  
+→ [StreamHub](#)  
+→ [mStock Terminal](#)
