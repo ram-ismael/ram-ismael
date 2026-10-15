@@ -24,12 +24,14 @@ From distributed systems and microservices to concurrency, fault tolerance and s
 **Complexity is inevitable. Fragility is a choice.**
 
 ---
+---
 
 ### Selected Work
 
 Explore some of the systems and products I've built:
 
-→ [English Training Centre](https://etc.edu.mz/pt/)
-→ [RAM E-Commerce](https://ram-ismael.github.io/e-commerce-demo/)  
-→ [RAM StreamHub](https://ram-ismael.github.io/stream-hub-demo/)  
-→ [mStock Terminal](#)
+→ [English Training Centre](https://etc.edu.mz/pt/) </br>
+→ [RAM E-Commerce](https://ram-ismael.github.io/e-commerce-demo/)  </br>
+→ [RAM StreamHub](https://ram-ismael.github.io/stream-hub-demo/)  </br>
+→ [Vértice Instituto](https://ram-ismael.github.io/vertice-instituto-demo/) </br>
+→ [Vértice Instituto](https://ram-ismael.github.io/instituto-nova-horizonte-demo/) </br>
