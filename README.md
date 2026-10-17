@@ -31,7 +31,7 @@ Explore some of the systems and products I've built:
 
 → [English Training Centre](https://etc.edu.mz/pt/) </br>
 → [E-Commerce](https://ram-ismael.github.io/e-commerce-demo/)  </br>
-→ [StreamHub](https://ram-ismael.github.io/stream-hub-demo/)  </br>
+→ [StreamHub](https://stream-hub-demo.vercel.app/)  </br>
 → [Imobiliária](https://imobiliaria-demo-theta.vercel.app/)  </br>
 → [Vértice Instituto](https://ram-ismael.github.io/vertice-instituto-demo/) </br>
 → [Instituto Nova Horizonte](https://ram-ismael.github.io/instituto-nova-horizonte-demo/) </br>
