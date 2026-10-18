@@ -30,8 +30,9 @@ From distributed systems and microservices to concurrency, fault tolerance and s
 Explore some of the systems and products I've built:
 
 → [English Training Centre](https://etc.edu.mz/pt/) </br>
-→ [E-Commerce](https://e-commerce-ashen-chi-15.vercel.app/)  </br>
 → [StreamHub](https://stream-hub-demo.vercel.app/)  </br>
+→ [E-Commerce](https://e-commerce-ashen-chi-15.vercel.app/)  </br>
 → [Imobiliária](https://imobiliaria-demo-theta.vercel.app/)  </br>
+→ [Clinic](https://clinic-demo-wine.vercel.app/)  </br>
 → [Vértice Instituto](https://ram-ismael.github.io/vertice-instituto-demo/) </br>
 → [Instituto Nova Horizonte](https://ram-ismael.github.io/instituto-nova-horizonte-demo/) </br>
