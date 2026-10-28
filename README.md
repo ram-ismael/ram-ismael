@@ -3,11 +3,13 @@
 
 # Hey, I'm Ramadan Ismael 👋
 
-### Full-Stack Software Developer
+### Technology Solutions Specialist
 
-Building modern applications for Web, Desktop & Mobile
+I like making the complicated simpler
 
-**Design ⇄ Develop ⇄ Deploy**
+**Performance · Scalability · Durability · Security**
+
+📍 Matola, Mozambique
 
 </div>
 
@@ -15,24 +17,30 @@ Building modern applications for Web, Desktop & Mobile
 
 ### About Me
 
-I'm a software developer passionate about turning complex ideas into practical, reliable and scalable solutions.
+I build business systems, websites and applications — web, desktop and mobile.
 
-Beyond code lies architecture. Beyond architecture lies complexity.
+In every project I guarantee performance, security and an architecture designed to grow and last.
 
-From distributed systems and microservices to concurrency, fault tolerance and scalability — I engineer solutions where every decision matters.
-
-**Complexity is inevitable. Fragility is a choice.**
+I have one flaw: I can't deliver half a project. **I always deliver it complete — and keep making it better.**
 
 ---
 
 ### Selected Work
 
-Explore some of the systems and products I've built:
-
 → [English Training Centre](https://etc.edu.mz/pt/) </br>
-→ [StreamHub](https://stream-hub-demo.vercel.app/)  </br>
-→ [E-Commerce](https://e-commerce-ashen-chi-15.vercel.app/)  </br>
-→ [Imobiliária](https://imobiliaria-demo-theta.vercel.app/)  </br>
-→ [Clinic](https://clinic-demo-wine.vercel.app/)  </br>
+→ [StreamHub](https://stream-hub-demo.vercel.app/) </br>
+→ [E-Commerce](https://e-commerce-ashen-chi-15.vercel.app/) </br>
+→ [Shani Lda Store](https://shani-lda-store-demo.vercel.app/) </br>
+→ [Imobiliária](https://imobiliaria-demo-theta.vercel.app/) </br>
+→ [Clinic](https://clinic-demo-wine.vercel.app/) </br>
 → [Vértice Instituto](https://ram-ismael.github.io/vertice-instituto-demo/) </br>
 → [Instituto Nova Horizonte](https://ram-ismael.github.io/instituto-nova-horizonte-demo/) </br>
+→ [Infância](https://infancia-cresh-demo.vercel.app/) </br>
+
+Also native apps: **mStock Trade Terminal** · **BalesMozPOS** · **ZyntraPOS** · **Mussa Electric**
+
+---
+
+### Let's Talk
+
+[Portfolio](https://ramadan-ismael.vercel.app/) · [LinkedIn](https://www.linkedin.com/in/ramadan-ismael-a34273215/) · [Email](mailto:ramadan.i.a.ismael@gmail.com) · [WhatsApp](https://wa.me/258871717834)
