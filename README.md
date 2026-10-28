@@ -9,8 +9,6 @@ I like making the complicated simpler
 
 **Performance · Scalability · Durability · Security**
 
-📍 Matola, Mozambique
-
 </div>
 
 ---
